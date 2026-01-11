@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:diamond_sword","components":{"minecraft:enchantments":{"levels":{"minecraft:mending":1,"minecraft:knockback":3,"minecraft:sweeping_edge":4,"minecraft:smite":6,"minecraft:bane_of_arthropods":6,"minecraft:looting":4,"minecraft:unbreaking":4,"minecraft:fire_aspect":3,"minecraft:sharpness":6}},"minecraft:custom_name":"\"Grippondis\""}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

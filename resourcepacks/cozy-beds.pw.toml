@@ -1,0 +1,13 @@
+name = "Cozy Beds"
+filename = "Cozy_Beds-v1.4-pre1.21.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7a686f412b70248907936c86e8101ed141446ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7157936
+project-id = 1240812

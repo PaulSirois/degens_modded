@@ -3,11 +3,11 @@ filename = "create-dragons-plus-1.8.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c1495b201f9f20af75d35b65be652ce8b68cdf7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/SzMfOokp/create-dragons-plus-1.8.5.jar"
+hash-format = "sha512"
+hash = "59bafc422073a2928b59e5d39d5011f0d9aac22d790c475e5795219560f22a99916e0126b842864335a959dbaa238ee2e9bdaae32862b6a971919d04b19d1949"
 
 [update]
-[update.curseforge]
-file-id = 7231493
-project-id = 1216624
+[update.modrinth]
+mod-id = "dzb1a5WV"
+version = "SzMfOokp"

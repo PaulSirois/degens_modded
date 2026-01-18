@@ -517,6 +517,11 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -967,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
 metafile = true
 
 [[files]]
@@ -981,13 +986,18 @@ hash = "dd91c22e378715d83782d03668ad65b5833c7c85ed634f2e664412cb50e4366b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
-hash = "bba354aa3cfecd49ebc819f61808b7a70b468b7ba30615b62af266d0c3e6c027"
+file = "resourcepacks/mandalas-gui-dark-mode-advancement-plaques-compat.pw.toml"
+hash = "ba1aaafa98a32b2ef17194a320c5ecd3566e5e894a8c63651b39d40e8f96d42c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode-utopia-extension.pw.toml"
+hash = "24e4d6b9c3b75d354228ab4cb95b76915b01e903994cdc1de0db40a959a52a70"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "7004a1a72df5489fc33f22be8d5afac7b2bfa8d57c83122ef3f167737b69d759"
+hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
 metafile = true
 
 [[files]]

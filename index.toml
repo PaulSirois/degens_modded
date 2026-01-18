@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cf2mr.sh"
+hash = "f91a2bf51836eae2c224b38a9578857cb320f9c6d17de69233728ff26bda125f"
+
+[[files]]
 file = "config/ae2-client.toml"
 hash = "c003fb3ac64c789cea15fd44a8f19d1f4f0c925758d376406472294f16a5b52d"
 
@@ -917,6 +921,10 @@ hash = "473b998b1acd6c14874f9db9ae5986b1de92820456de2ff57ad4f8b2d64ccfff"
 metafile = true
 
 [[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "resourcepacks/FA+All_Extensions-v1.7.zip"
 hash = "2eb170378e7adb62c0426070c72565dc6769a763c8a9a8d01c1fd90056aa2aed"
 
@@ -932,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui-optifine.pw.toml"
-hash = "b37cd9b6268da88edf83dc4f881e52cf452ad364fcae490717b5fa223d183a4e"
+hash = "259a6838d18876fc6b28682752ad3d5b6d44c802402d29daa687a3d91457a8db"
 metafile = true
 
 [[files]]
@@ -1038,3 +1046,11 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
 metafile = true
+
+[[files]]
+file = "test/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "test/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"

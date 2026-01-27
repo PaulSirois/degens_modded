@@ -1,0 +1,13 @@
+name = "AE2-PBR"
+filename = "AE2-1.21-LabPBR-v9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5x1MHOKX/versions/zYr9Gx3n/AE2-1.21-LabPBR-v9.zip"
+hash-format = "sha512"
+hash = "d3332854f24c533c2de0bdf2a91d6638cdb947f3f81a8cbe86037bfbfffe749f8f724def2bce25f1deb93ffbcb05c2cc2296348be849117cf267546fbfa16a02"
+
+[update]
+[update.modrinth]
+mod-id = "5x1MHOKX"
+version = "zYr9Gx3n"

@@ -526,7 +526,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
 metafile = true
 
 [[files]]
@@ -757,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
 
 [[files]]

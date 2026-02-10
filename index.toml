@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cf2mr.sh"
-hash = "e65a9af6bd10f61313ca9150e1ab88618b6cdbdbba0935b642262e14568fb41a"
-
-[[files]]
 file = "config/ae2-client.toml"
 hash = "c003fb3ac64c789cea15fd44a8f19d1f4f0c925758d376406472294f16a5b52d"
 
@@ -930,10 +926,6 @@ hash = "6ece72c173c16cab39e3e30429d49d19f1f88762cd0a351c4ff414d5a3f55891"
 metafile = true
 
 [[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
 file = "resourcepacks/FA+All_Extensions-v1.7.zip"
 hash = "2eb170378e7adb62c0426070c72565dc6769a763c8a9a8d01c1fd90056aa2aed"
 
@@ -1055,15 +1047,3 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
 metafile = true
-
-[[files]]
-file = "test/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "test/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "xaero/minimap/Multiplayer_degensserver.ddns.net/config.txt"
-hash = "2def6d98d7ebb7c47729206ff0ae29a2b22b98a31a33fbfb89b5ca3a931e1027"

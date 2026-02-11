@@ -1,6 +1,6 @@
 name = "WTHIT Forge Edition"
 filename = "wthit-1.21.1-neo-12.10.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

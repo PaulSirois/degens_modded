@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "e80ae74116458d104cdf5c8cffc28013d6f9f3452e43cf45ba4f7432cdc6dc53"
+hash = "a159db647e2498f56b84e81c1b5a11dd75c405a490b3b0f92f5403af401554ec"
 metafile = true
 
 [[files]]
